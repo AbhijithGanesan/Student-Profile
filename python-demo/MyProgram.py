@@ -1,5 +1,5 @@
 def greet():
-    return "Updated on the action-update branch"
+    return "Hello from GitHub Actions!"
 
 
 if __name__ == "__main__":
